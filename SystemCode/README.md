@@ -8,6 +8,7 @@ CookWhatAh rides on a Telegram application as the user interface to implement ou
 
 ### Installation instructions for CookWhatAh_2_bot (Local IDE):
 1. Please download telegram-group18.zip from this [link](https://drive.google.com/file/d/12ubFzfythOmrb5uIc6xo7KT1FfYvAXAi/view?usp=sharing)
-2. Please unzip it and run the app.py directly with Python IDE as it is.
-3. Requirements.txt file contains the dependency details it needs
-4. In your telegram app in your smartphone/desktop, please search "CookWhatAh_2" or click https://t.me/CookWhatAh_2_bot
+2. Unzip and extract files into directory of choice
+3. Install python dependencies using requirements.txt
+4. Run app.py and keep it running while you use the telegram bot
+5. In your telegram app in your smartphone/desktop, please search "CookWhatAh_2" or click https://t.me/CookWhatAh_2_bot
